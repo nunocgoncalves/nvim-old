@@ -1,3 +1,5 @@
+vim.o.clipboard = "unnamedplus"
+
 vim.opt.nu = true
 
 vim.opt.tabstop = 4
